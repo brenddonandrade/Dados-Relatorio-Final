@@ -1,6 +1,6 @@
 # Dados para o Relatório Final
 
-Este repositório foi criado com o objetivo de tornar as informações do meu Relatório Final acessível e replicáveis, podendo assim, o projeto ser reproduzido e replicável.
+Este repositório foi criado com o objetivo de tornar as informações do meu Relatório Final acessíveis e replicáveis. Todos os passos necessários para isto serão descritos a seguir.
 
 
 ## Como rodar o código?
@@ -13,7 +13,7 @@ Basta acessar o arquivo notebook ["Communicability_Final_Report.ipynb"](https://
 
 ## Dados que obtive
 
-O exemplo utilizado neste programa gera uma rede aleatória para criação dos dados de comparação. Como o nome diz, é uma rede gerada aleatóriamente e por isto nossos dados obtidos não serão exatamente o mesmo. Hora a redução de tempo pode ser maior ou menor, dependendo da rede. Pensando nisso, o arquivo ["df_special_case.csv"](https://github.com/brenddonandrade/Dados-Relatorio-Final/blob/main/df_special_case.csv) fornece os dados que obtive quando compilei o programa.
+O exemplo utilizado neste programa gera uma rede aleatória para criação dos dados de comparação. Como o nome diz, é uma rede gerada aleatóriamente e por consequência disto nossos dados serão provavelmente diferentes. Hora a redução de tempo pode ser maior ou menor, dependendo da rede gerada. Pensando nisso, o arquivo ["df_special_case.csv"](https://github.com/brenddonandrade/Dados-Relatorio-Final/blob/main/df_special_case.csv) fornece os dados que obtive quando compilei o programa.
 
 ## Considerações Finais
 
