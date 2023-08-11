@@ -14,3 +14,15 @@ Basta acessar o arquivo notebook ["Communicability_Final_Report.ipynb"](https://
 ## Dados que obtive
 
 O exemplo utilizado neste programa gera uma rede aleatória para criação dos dados de comparação. Como o nome diz, é uma rede gerada aleatóriamente e por isto nossos dados obtidos não serão exatamente o mesmo. Hora a redução de tempo pode ser maior ou menor, dependendo da rede. Pensando nisso, o arquivo ["df_special_case.csv"](https://github.com/brenddonandrade/Dados-Relatorio-Final/blob/main/df_special_case.csv) fornece os dados que obtive quando compilei o programa.
+
+## Considerações Finais
+
+Com isso, já é possível acessar o código criado e produzir você mesmo os seus dados. 
+
+Futuramente irei publicar modificações deste programa para realizar a análise de comuniacabilidade em redes de estradas que representam cidades inteiras. Mas, ainda falta bastante bagagem para isto. 
+
+Espero ter ajudado.
+
+Att,
+
+**Brenddon Oliveira**
